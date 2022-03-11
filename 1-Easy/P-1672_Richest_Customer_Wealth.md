@@ -40,8 +40,5 @@ public int maximumWealth(int[][] accounts){
    }
    return max;
 }
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 5e7c5cc8b284e5db49e9500efc6361c2050fd2d8
+
