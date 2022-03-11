@@ -27,6 +27,7 @@ The 2nd customer is the richest with a wealth of 10. <br/>
 *Output:* 17
 
 ### Solution, T.C: O(m*n)
+```
 public int maximumWealth(int[][] accounts){
    int max = INTEGER.MIN_VALUE;
 
@@ -39,3 +40,4 @@ public int maximumWealth(int[][] accounts){
    }
    return max;
 }
+```
