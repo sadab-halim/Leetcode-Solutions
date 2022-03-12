@@ -14,6 +14,8 @@ Note that you must do this in-place without making a copy of the array.
 *Output:* [0]
 
 ### Solution, T.C: O(n)
+
+### Java Code
 ```
 public void moveZeroes(int[] nums){
    int count = 0;
