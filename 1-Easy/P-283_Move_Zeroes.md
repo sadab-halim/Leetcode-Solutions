@@ -5,15 +5,17 @@ Given an integer array nums, move all 0's to the end of it while maintaining the
 Note that you must do this in-place without making a copy of the array.
 
  
-*Example-1*
-*Input:* nums = [0,1,0,3,12]
+*Example-1* <br/>
+*Input:* nums = [0,1,0,3,12] <br/>
 *Output:* [1,3,12,0,0]
 
-*Example-2*
-*Input:* nums = [0]
+*Example-2* <br/>
+*Input:* nums = [0] <br/>
 *Output:* [0]
 
 ### Solution, T.C: O(n)
+
+### Java Code
 ```
 public void moveZeroes(int[] nums){
    int count = 0;
