@@ -1,18 +1,3 @@
-# [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-palindromic-substring/)
-
-Given a string s, return the longest palindromic substring in s.
-
-*Example-1* <br/>
-*Input:* s = "babad" <br/>
-*Output:* "bab" <br/>
-*Explanation:* "aba" is also a valid answer. <br/>
-
-*Example-2* <br/>
-*Input:* s = "cbbd" <br/>
-*Output:* "bb"
-
-### Solution
-```
 public int lengthOfLongestSubstring(String s) {
         int[] character = new int[256];
         int left = 0;
@@ -33,4 +18,3 @@ public int lengthOfLongestSubstring(String s) {
         }
         return res;
     }
-```
