@@ -15,10 +15,10 @@
 | 11 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) |
 | 12 | [Game of Life](https://leetcode.com/problems/game-of-life/) |
 | 13 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |
-| 14 | Search in a Binary Search Tree |
-| 15 | Trim a Binary Search Tree |
-| 16 | Convert BST to Greater Tree |
-| 17 | Increasing Order Search Tree |
-| 18 | Kth Smallest Element in a BST |
-| 19 | Recover Binary Search Tree |
-| 20 | Binary Search Tree Iterator | 
+| 14 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |
+| 15 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |
+| 16 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |
+| 17 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |
+| 18 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
+| 19 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |
+| 20 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 
