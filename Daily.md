@@ -22,3 +22,4 @@
 | 18 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Kth_Smallest_Element_in_a_BST.java) |
 | 19 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Recover_Binary_Search_Tree.java) |
 | 20 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Binary_Search_Tree_Iterator.java) |
+| 21 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Design_Hashset.java) |
