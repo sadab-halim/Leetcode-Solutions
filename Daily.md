@@ -23,3 +23,4 @@
 | 19 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Recover_Binary_Search_Tree.java) |
 | 20 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Binary_Search_Tree_Iterator.java) |
 | 21 | [Design Hashset](https://leetcode.com/problems/design-hashset/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Design_Hashset.java) |
+| 22 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Design_HashMap.java) |
