@@ -26,3 +26,4 @@
 | 22 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Design_HashMap.java) |
 | 23 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Encode_and_Decode_TinyURL.java) |
 | 24 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Java/Design_Underground_System.java) |
+| 25 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Click here](https://github.com/sadab-halim/Leetcode-Solutions/blob/main/Leetcode%20Daily%20Challenges/04.%20April%202022/25.%20Peeking%20Iterator.java) |
