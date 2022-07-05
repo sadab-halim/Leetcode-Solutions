@@ -9,7 +9,6 @@ public:
         int count = 0;
        
         for(int i=0;i<boxTypes.size();i++){
-            
             if(boxTypes[i][0]>=truckSize){
                 count+= truckSize*boxTypes[i][1];
                  truckSize = 0;
@@ -19,7 +18,6 @@ public:
                 count += boxTypes[i][0]*boxTypes[i][1];
             }
         }
-        
         return count;
     }
 };
